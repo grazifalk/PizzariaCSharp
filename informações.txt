@@ -1,0 +1,29 @@
+Objetivo:
+Simular uma API para sistema de Pizzaria Delivery.
+
+* Entender o minimo necessário sobre o que seria uma API.
+* Entender as camadas da API
+* Construir algumas entidades da camada.
+
+* Clinte (id, nome, telefone, Lista<endereco>) OK
+* Pizza (id, Tipo, TipoBorda, Lista de Sabores, Valor) OK
+* Bebida (id, nome, Valor) OK
+* Pedido (id, dataHora, Cliente, List de pizzas, List de bebidas, ValorTotal) OK
+
+MVC
+Model => Classes, nossas entidades da regra de negocio.
+View => Tudo aquilo que eu recebo e envio ao usuario.
+Controller => Controllador, onde inicia a regra de negocio da aplicação.
+
+Repository => Simular o banco de dados.
+
+Relatórios, saber quantas pizzas eu vendi em um dia.
+Qual foi o meu faturamento.
+Qual foi a pizza mais vendida.
+
+Regras:
+
+camelCase: Sempre usar em variáveis, parametros de construtores e metodos.
+PascalCase: Sempre usa rpara criar classes, Construtores, propriedades e metodos.
+kibab-case:
+snake_case

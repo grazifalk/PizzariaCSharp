@@ -1,0 +1,15 @@
+C:\ferramentas\Weberson\CSharp\PizzariaCSharp\bin\Debug\net6.0\PizzariaCSharp.exe
+C:\ferramentas\Weberson\CSharp\PizzariaCSharp\bin\Debug\net6.0\PizzariaCSharp.deps.json
+C:\ferramentas\Weberson\CSharp\PizzariaCSharp\bin\Debug\net6.0\PizzariaCSharp.runtimeconfig.json
+C:\ferramentas\Weberson\CSharp\PizzariaCSharp\bin\Debug\net6.0\PizzariaCSharp.dll
+C:\ferramentas\Weberson\CSharp\PizzariaCSharp\bin\Debug\net6.0\PizzariaCSharp.pdb
+C:\ferramentas\Weberson\CSharp\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.csproj.AssemblyReference.cache
+C:\ferramentas\Weberson\CSharp\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ferramentas\Weberson\CSharp\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.AssemblyInfoInputs.cache
+C:\ferramentas\Weberson\CSharp\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.AssemblyInfo.cs
+C:\ferramentas\Weberson\CSharp\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.csproj.CoreCompileInputs.cache
+C:\ferramentas\Weberson\CSharp\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.dll
+C:\ferramentas\Weberson\CSharp\PizzariaCSharp\obj\Debug\net6.0\refint\PizzariaCSharp.dll
+C:\ferramentas\Weberson\CSharp\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.pdb
+C:\ferramentas\Weberson\CSharp\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.genruntimeconfig.cache
+C:\ferramentas\Weberson\CSharp\PizzariaCSharp\obj\Debug\net6.0\ref\PizzariaCSharp.dll
